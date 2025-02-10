@@ -6,7 +6,7 @@ public class Methods {
     public void myPublicMethod () {
         System.out.println("I just got revived!");
     }
-    
+
     public static void main(String[] args) {
         myStaticMethod();
         Methods obj = new Methods();
