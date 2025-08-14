@@ -1,5 +1,4 @@
 package Tesda.Activity;
-import java.lang.*;
 
 public class Activity1_Ocampo {
         public static void main (String[]args) {

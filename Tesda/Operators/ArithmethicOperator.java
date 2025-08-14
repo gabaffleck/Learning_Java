@@ -28,4 +28,5 @@ public class ArithmethicOperator {
         
         // modulo (%)
         System.out.println (num1 % num2);
+    }
 }
