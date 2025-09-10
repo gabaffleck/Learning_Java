@@ -1,4 +1,4 @@
-package Tesda.ControlFlowStatement;
+package Tesda.ControlFlow;
 
 public class IfElse {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Tesda.ControlFlowStatement;
+package Tesda.ControlFlow;
 
 import java.util.Scanner;
 
